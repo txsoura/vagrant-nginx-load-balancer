@@ -8,7 +8,11 @@ This is a vagrant nginx load balancer with 2 nodes
 - Vagrant 
 
 ## Run
-```vagrant up```
+```bash
+vagrant up
+```
 
 ## SSH balancer
-```vagrant ssh balancer```
+```bash
+vagrant ssh balancer
+```
